@@ -1,4 +1,4 @@
-## DAA_23BCS13776
+# DAA_23BCS13776
 
-# Chetan Prakash
-# 23BCS13776
+## Chetan Prakash
+## 23BCS13776
